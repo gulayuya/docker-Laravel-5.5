@@ -1,0 +1,2 @@
+172.31.0.1 - - [25/Dec/2019:15:53:52 +0900] "GET / HTTP/1.1" 200 2333 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" "-"
+172.31.0.1 - - [25/Dec/2019:15:53:52 +0900] "GET /favicon.ico HTTP/1.1" 200 0 "http://127.0.0.1:10080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" "-"

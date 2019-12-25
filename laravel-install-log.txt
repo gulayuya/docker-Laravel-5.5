@@ -1,0 +1,239 @@
+    1/1:        https://packagist.jp/p/provider-latest$14627e5b910e5f1158514dee560b0db766f954242a156d065487f5db79411046.json
+    Finished: success: 1, skipped: 0, failure: 0, total: 1
+Installing laravel/laravel (v5.5.28)
+  - Installing laravel/laravel (v5.5.28): Downloading (100%)
+Created project in .
+> @php -r "file_exists('.env') || copy('.env.example', '.env');"
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+    1/76:       https://codeload.github.com/phpDocumentor/ReflectionCommon/legacy.zip/63a995caa1ca9e5590304cd845c15ad6d482a62a
+    2/76:       https://codeload.github.com/symfony/thanks/legacy.zip/6021b6862da1e91d3673aab0f2045a91d0f5ac79
+    3/76:       https://codeload.github.com/webmozart/assert/legacy.zip/573381c0a64f155a0d9a23f4b0c797194805b925
+    4/76:       https://codeload.github.com/myclabs/DeepCopy/legacy.zip/579bb7356d91f9456ccd505f24ca8b667966a0a7
+    5/76:       https://codeload.github.com/phpDocumentor/ReflectionDocBlock/legacy.zip/2ecaa9fef01634c83bfa8dc1fe35fb5cef223a62
+    6/76:       https://codeload.github.com/phpDocumentor/TypeResolver/legacy.zip/2e32a6d48972b2c1976ed5d8967145b6cec4a4a9
+    7/76:       https://codeload.github.com/phpspec/prophecy/legacy.zip/cbe1df668b3fe136bcc909126a0f529a78d4cbbc
+    8/76:       https://codeload.github.com/sebastianbergmann/code-unit-reverse-lookup/legacy.zip/4419fcdb5eabb9caa61a27c7a1db532a6b55dd18
+    9/76:       https://codeload.github.com/theseer/tokenizer/legacy.zip/11336f6f84e16a720dae9d8e6ed5019efa85a0f9
+    10/76:      https://codeload.github.com/sebastianbergmann/php-timer/legacy.zip/3dcf38ca72b158baf0bc245e9184d3fdffa9c46f
+    11/76:      https://codeload.github.com/sebastianbergmann/php-text-template/legacy.zip/31f8b717e51d9a2afca6c9f046f5d69fc27c8686
+    12/76:      https://codeload.github.com/sebastianbergmann/environment/legacy.zip/5795ffe5dc5b02460c3e34222fee8cbe245d8fac
+    13/76:      https://codeload.github.com/doctrine/instantiator/legacy.zip/ae466f726242e637cebdd526a7d991b9433bacf1
+    14/76:      https://codeload.github.com/sebastianbergmann/global-state/legacy.zip/e8ba02eed7bbbb9e59e43dedd3dddeff4a56b0c4
+    15/76:      https://codeload.github.com/sebastianbergmann/phpunit/legacy.zip/47ee3fa1bca5c50f1d25105201eb20df777bd7b6
+    16/76:      https://codeload.github.com/sebastianbergmann/php-code-coverage/legacy.zip/e648abfd8ffb1d54ad549b027b75e376e9055d02
+    17/76:      https://codeload.github.com/sebastianbergmann/resource-operations/legacy.zip/ce990bb21759f94aeafd30209e8cfcdfa8bc3f52
+    18/76:      https://codeload.github.com/sebastianbergmann/phpunit-mock-objects/legacy.zip/3819745c44f3aff9518fd655f320c4535d541af7
+    19/76:      https://codeload.github.com/sebastianbergmann/php-token-stream/legacy.zip/791198a2c6254db10131eecfe8c06670700904db
+    20/76:      https://codeload.github.com/sebastianbergmann/version/legacy.zip/99732be0ddb3361e16ad77b68ba41efc8e979019
+    21/76:      https://codeload.github.com/sebastianbergmann/diff/legacy.zip/7f066a26a962dbe58ddea9f72a4e82874a3975a4
+    22/76:      https://codeload.github.com/sebastianbergmann/php-file-iterator/legacy.zip/730b01bc3e867237eaac355e06a36b85dd93a8b4
+    23/76:      https://codeload.github.com/sebastianbergmann/comparator/legacy.zip/2b7424b55f5047b47ac6e5ccb20b2aea4011d9be
+    24/76:      https://codeload.github.com/hamcrest/hamcrest-php/legacy.zip/776503d3a8e85d4f9a1148614f95b7a608b046ad
+    25/76:      https://codeload.github.com/sebastianbergmann/exporter/legacy.zip/ce474bdd1a34744d7ac5d6aad3a46d48d9bac4c4
+    26/76:      https://codeload.github.com/mockery/mockery/legacy.zip/5571962a4f733fbb57bede39778f71647fae8e66
+    27/76:      https://codeload.github.com/sebastianbergmann/recursion-context/legacy.zip/2c3ba150cbec723aa057506e73a8d33bdb286c9a
+    28/76:      https://codeload.github.com/laravel/tinker/legacy.zip/ad571aacbac1539c30d480908f9d0c9614eaf1a7
+    29/76:      https://codeload.github.com/dnoegel/php-xdg-base-dir/legacy.zip/8f8a6e48c5ecb0f991c2fdcf5f154a47d85f9ffd
+    30/76:      https://codeload.github.com/filp/whoops/legacy.zip/ee9699e79d8fcdd15c107e035d7b965e4fa854ac
+    31/76:      https://codeload.github.com/JakubOnderka/PHP-Console-Highlighter/legacy.zip/9f7a229a69d52506914b4bc61bfdb199d90c5547
+    32/76:      https://codeload.github.com/sebastianbergmann/object-enumerator/legacy.zip/1311872ac850040a79c3c058bea3e22d0f09cbb7
+    33/76:      https://codeload.github.com/nikic/PHP-Parser/legacy.zip/9a9981c347c5c49d6dfe5cf826bb882b824080dc
+    34/76:      https://codeload.github.com/bobthecow/psysh/legacy.zip/90da7f37568aee36b116a030c5f99c915267edd4
+    35/76:      https://codeload.github.com/JakubOnderka/PHP-Console-Color/legacy.zip/d5deaecff52a0d61ccb613bb3804088da0307191
+    36/76:      https://codeload.github.com/fzaninotto/Faker/legacy.zip/fc10d778e4b84d5bd315dad194661e091d307c6f
+    37/76:      https://codeload.github.com/fideloper/TrustedProxy/legacy.zip/9cdf6f118af58d89764249bbcc7bb260c132924f
+    38/76:      https://codeload.github.com/doctrine/inflector/legacy.zip/ec3a55242203ffa6a4b27c58176da97ff0a7aec1
+    39/76:      https://codeload.github.com/erusev/parsedown/legacy.zip/6d893938171a817f4e9bc9e86f2da1e370b7bcd7
+    40/76:      https://codeload.github.com/Seldaek/monolog/legacy.zip/fa82921994db851a8becaf3787a9e73c5976b6f1
+    41/76:      https://codeload.github.com/mtdowling/cron-expression/legacy.zip/9504fa9ea681b586028adaaa0877db4aecf32bad
+    42/76:      https://codeload.github.com/kylekatarnls/update-helper/legacy.zip/5786fa188e0361b9adf9e8199d7280d1b2db165e
+    43/76:      https://codeload.github.com/symfony/translation-contracts/legacy.zip/364518c132c95642e530d9b2d217acbc2ccac3e6
+    44/76:      https://codeload.github.com/php-fig/simple-cache/legacy.zip/408d5eafb83c57f6365a3ca330ff23aa4a5fa39b
+    45/76:      https://codeload.github.com/swiftmailer/swiftmailer/legacy.zip/149cfdf118b169f7840bbe3ef0d4bc795d1780c9
+    46/76:      https://codeload.github.com/doctrine/lexer/legacy.zip/5242d66dbeb21a30dd8a3e66bf7a73b66e05e1f6
+    47/76:      https://codeload.github.com/egulias/EmailValidator/legacy.zip/a6255605af39f2db7f5cb62e672bd8a7bad8d208
+    48/76:      https://codeload.github.com/ramsey/uuid/legacy.zip/7779489a47d443f845271badbdcedfe4df8e06fb
+    49/76:      https://codeload.github.com/laravel/framework/legacy.zip/e3e8d585dcfab5abe6261b060f4df0d48f9924bf
+    50/76:      https://codeload.github.com/briannesbitt/Carbon/legacy.zip/4be0c005164249208ce1b5ca633cd57bdd42ff33
+    51/76:      https://codeload.github.com/symfony/console/legacy.zip/1ee23b3b659b06c622f2bd2492a229e416eb4586
+    52/76:      https://codeload.github.com/symfony/polyfill-util/legacy.zip/964a67f293b66b95883a5ed918a65354fcd2258f
+    53/76:      https://codeload.github.com/symfony/polyfill-php56/legacy.zip/53dd1cdf3cb986893ccf2b96665b25b3abb384f4
+    54/76:      https://codeload.github.com/symfony/polyfill-iconv/legacy.zip/a019efccc03f1a335af6b4f20c30f5ea8060be36
+    55/76:      https://codeload.github.com/symfony/event-dispatcher/legacy.zip/b3c3068a72623287550fe20b84a2b01dcba2686f
+    56/76:      https://codeload.github.com/symfony/event-dispatcher-contracts/legacy.zip/c43ab685673fb6c8d84220c77897b1d6cdbe1d18
+    57/76:      https://codeload.github.com/symfony/http-kernel/legacy.zip/c42c8339acb28cfff0fb1786948db4d23d609ff7
+    58/76:      https://codeload.github.com/symfony/translation/legacy.zip/73f86a49454d9477864ccbb6c06993e24a052a48
+    59/76:      https://codeload.github.com/php-fig/container/legacy.zip/b7ce3b176482dbbc1245ebf52b181af44c2cf55f
+    60/76:      https://codeload.github.com/symfony/finder/legacy.zip/290ae21279b37bfd287cdcce640d51204e84afdf
+    61/76:      https://codeload.github.com/paragonie/random_compat/legacy.zip/84b4dfb120c6f9b4ff7b3685f9b8f1aa365a0c95
+    62/76:      https://codeload.github.com/symfony/polyfill-intl-idn/legacy.zip/6f9c239e61e1b0c9229a28ff89a812dc449c3d46
+    63/76:      https://codeload.github.com/symfony/http-foundation/legacy.zip/d2d0cfe8e319d9df44c4cca570710fcf221d4593
+    64/76:      https://codeload.github.com/symfony/polyfill-php70/legacy.zip/af23c7bb26a73b850840823662dda371484926c4
+    65/76:      https://codeload.github.com/php-fig/log/legacy.zip/446d54b4cb6bf489fc9d75f55843658e6f25d801
+    66/76:      https://codeload.github.com/symfony/debug/legacy.zip/f72e33fdb1170b326e72c3157f0cd456351dd086
+    67/76:      https://codeload.github.com/thephpleague/flysystem/legacy.zip/4fb13c01784a6c9f165a351e996871488ca2d8c9
+    68/76:      https://codeload.github.com/tijsverkoyen/CssToInlineStyles/legacy.zip/dda2ee426acd6d801d5b7fd1001cde9b5f790e15
+    69/76:      https://codeload.github.com/symfony/process/legacy.zip/9a4545c01e1e4f473492bd52b71e574dcc401ca2
+    70/76:      https://codeload.github.com/vlucas/phpdotenv/legacy.zip/2a7dcf7e3e02dc5e701004e51a6f304b713107d5
+    71/76:      https://codeload.github.com/symfony/polyfill-ctype/legacy.zip/f8f0b461be3385e56d6de3dbb5a0df24c0c275e3
+    72/76:      https://codeload.github.com/symfony/var-dumper/legacy.zip/569e261461600810845a8305ca3f64abd3e712c0
+    73/76:      https://codeload.github.com/symfony/css-selector/legacy.zip/19d29e7098b7b2c3313cb03902ca30f100dcb837
+    74/76:      https://codeload.github.com/symfony/routing/legacy.zip/b689ccd48e234ea404806d94b07eeb45f9f6f06a
+    75/76:      https://codeload.github.com/symfony/polyfill-php72/legacy.zip/66fea50f6cb37a35eea048d75a7d99a45b586038
+    76/76:      https://codeload.github.com/symfony/polyfill-mbstring/legacy.zip/7b4aab9743c30be783b73de055d24a39cf4b954f
+    Finished: success: 76, skipped: 0, failure: 0, total: 76
+Package operations: 76 installs, 0 updates, 0 removals
+  - Installing kylekatarnls/update-helper (1.2.0): Loading from cache
+  - Installing symfony/thanks (v1.2.4): Loading from cache
+  - Installing symfony/polyfill-ctype (v1.13.1): Loading from cache
+  - Installing vlucas/phpdotenv (v2.6.1): Loading from cache
+  - Installing symfony/css-selector (v5.0.2): Loading from cache
+  - Installing tijsverkoyen/css-to-inline-styles (2.2.2): Loading from cache
+  - Installing symfony/polyfill-mbstring (v1.13.1): Loading from cache
+  - Installing symfony/var-dumper (v3.4.36): Loading from cache
+  - Installing symfony/routing (v3.4.36): Loading from cache
+  - Installing symfony/process (v3.4.36): Loading from cache
+  - Installing psr/log (1.1.2): Loading from cache
+  - Installing symfony/debug (v3.4.36): Loading from cache
+  - Installing symfony/polyfill-php72 (v1.13.1): Loading from cache
+  - Installing symfony/polyfill-intl-idn (v1.13.1): Loading from cache
+  - Installing paragonie/random_compat (v9.99.99): Loading from cache
+  - Installing symfony/polyfill-php70 (v1.13.1): Loading from cache
+  - Installing symfony/http-foundation (v3.4.36): Loading from cache
+  - Installing symfony/event-dispatcher-contracts (v1.1.7): Loading from cache
+  - Installing psr/container (1.0.0): Loading from cache
+  - Installing symfony/event-dispatcher (v4.4.2): Loading from cache
+  - Installing symfony/polyfill-util (v1.13.1): Loading from cache
+  - Installing symfony/polyfill-php56 (v1.13.1): Loading from cache
+  - Installing symfony/http-kernel (v3.4.36): Loading from cache
+  - Installing symfony/finder (v3.4.36): Loading from cache
+  - Installing symfony/console (v3.4.36): Loading from cache
+  - Installing symfony/polyfill-iconv (v1.13.1): Loading from cache
+  - Installing doctrine/lexer (1.2.0): Loading from cache
+  - Installing egulias/email-validator (2.1.12): Loading from cache
+  - Installing swiftmailer/swiftmailer (v6.2.3): Loading from cache
+  - Installing ramsey/uuid (3.9.2): Loading from cache
+  - Installing psr/simple-cache (1.0.1): Loading from cache
+  - Installing symfony/translation-contracts (v1.1.7): Loading from cache
+  - Installing symfony/translation (v4.3.9): Loading from cache
+  - Installing nesbot/carbon (1.39.1): Loading from cache
+  - Installing mtdowling/cron-expression (v1.2.1): Loading from cache
+  - Installing monolog/monolog (1.25.3): Loading from cache
+  - Installing league/flysystem (1.0.61): Loading from cache
+  - Installing erusev/parsedown (1.7.3): Loading from cache
+  - Installing doctrine/inflector (1.3.1): Loading from cache
+  - Installing laravel/framework (v5.5.48): Loading from cache
+  - Installing fideloper/proxy (3.3.4): Loading from cache
+  - Installing jakub-onderka/php-console-color (v0.2): Loading from cache
+  - Installing jakub-onderka/php-console-highlighter (v0.4): Loading from cache
+  - Installing nikic/php-parser (v4.3.0): Loading from cache
+  - Installing dnoegel/php-xdg-base-dir (v0.1.1): Loading from cache
+  - Installing psy/psysh (v0.9.12): Loading from cache
+  - Installing laravel/tinker (v1.0.10): Loading from cache
+  - Installing filp/whoops (2.5.1): Loading from cache
+  - Installing fzaninotto/faker (v1.9.1): Loading from cache
+  - Installing sebastian/recursion-context (2.0.0): Loading from cache
+  - Installing sebastian/exporter (2.0.0): Loading from cache
+  - Installing sebastian/diff (1.4.3): Loading from cache
+  - Installing sebastian/comparator (1.2.4): Loading from cache
+  - Installing hamcrest/hamcrest-php (v2.0.0): Loading from cache
+  - Installing mockery/mockery (1.3.0): Loading from cache
+  - Installing sebastian/version (2.0.1): Loading from cache
+  - Installing sebastian/resource-operations (1.0.0): Loading from cache
+  - Installing sebastian/object-enumerator (2.0.1): Loading from cache
+  - Installing sebastian/global-state (2.0.0): Loading from cache
+  - Installing sebastian/environment (2.0.0): Loading from cache
+  - Installing doctrine/instantiator (1.3.0): Loading from cache
+  - Installing phpunit/php-text-template (1.2.1): Loading from cache
+  - Installing phpunit/phpunit-mock-objects (4.0.0): Loading from cache
+  - Installing phpunit/php-timer (1.0.9): Loading from cache
+  - Installing phpunit/php-file-iterator (1.4.5): Loading from cache
+  - Installing theseer/tokenizer (1.1.3): Loading from cache
+  - Installing sebastian/code-unit-reverse-lookup (1.0.1): Loading from cache
+  - Installing phpunit/php-token-stream (2.0.2): Loading from cache
+  - Installing phpunit/php-code-coverage (5.2.0): Loading from cache
+  - Installing webmozart/assert (1.6.0): Loading from cache
+  - Installing phpdocumentor/reflection-common (2.0.0): Loading from cache
+  - Installing phpdocumentor/type-resolver (1.0.1): Loading from cache
+  - Installing phpdocumentor/reflection-docblock (4.3.3): Loading from cache
+  - Installing phpspec/prophecy (1.10.1): Loading from cache
+  - Installing myclabs/deep-copy (1.9.4): Loading from cache
+  - Installing phpunit/phpunit (6.0.8): Loading from cache
+symfony/var-dumper suggests installing ext-symfony_debug
+symfony/routing suggests installing symfony/config (For using the all-in-one router or any loader)
+symfony/routing suggests installing symfony/yaml (For using the YAML loader)
+symfony/routing suggests installing symfony/expression-language (For using expression matching)
+symfony/routing suggests installing doctrine/annotations (For using the annotation loader)
+paragonie/random_compat suggests installing ext-libsodium (Provides a modern crypto API that can be used to generate random bytes.)
+symfony/event-dispatcher-contracts suggests installing psr/event-dispatcher
+symfony/event-dispatcher suggests installing symfony/dependency-injection
+symfony/http-kernel suggests installing symfony/browser-kit
+symfony/http-kernel suggests installing symfony/config
+symfony/http-kernel suggests installing symfony/dependency-injection
+symfony/console suggests installing symfony/lock
+swiftmailer/swiftmailer suggests installing true/punycode (Needed to support internationalized email addresses, if ext-intl is not installed)
+ramsey/uuid suggests installing ext-libsodium (Provides the PECL libsodium extension for use with the SodiumRandomGenerator)
+ramsey/uuid suggests installing ext-uuid (Provides the PECL UUID extension for use with the PeclUuidTimeGenerator and PeclUuidRandomGenerator)
+ramsey/uuid suggests installing moontoast/math (Provides support for converting UUID to 128-bit integer (in string form).)
+ramsey/uuid suggests installing ramsey/uuid-console (A console application for generating UUIDs with ramsey/uuid)
+ramsey/uuid suggests installing ramsey/uuid-doctrine (Allows the use of Ramsey\Uuid\Uuid as Doctrine field type.)
+ramsey/uuid suggests installing paragonie/random-lib (Provides RandomLib for use with the RandomLibAdapter)
+symfony/translation suggests installing symfony/config
+symfony/translation suggests installing symfony/yaml
+monolog/monolog suggests installing graylog2/gelf-php (Allow sending log messages to a GrayLog2 server)
+monolog/monolog suggests installing sentry/sentry (Allow sending log messages to a Sentry server)
+monolog/monolog suggests installing doctrine/couchdb (Allow sending log messages to a CouchDB server)
+monolog/monolog suggests installing ruflin/elastica (Allow sending log messages to an Elastic Search server)
+monolog/monolog suggests installing php-amqplib/php-amqplib (Allow sending log messages to an AMQP server using php-amqplib)
+monolog/monolog suggests installing ext-amqp (Allow sending log messages to an AMQP server (1.0+ required))
+monolog/monolog suggests installing ext-mongo (Allow sending log messages to a MongoDB server)
+monolog/monolog suggests installing mongodb/mongodb (Allow sending log messages to a MongoDB server via PHP Driver)
+monolog/monolog suggests installing aws/aws-sdk-php (Allow sending log messages to AWS services like DynamoDB)
+monolog/monolog suggests installing rollbar/rollbar (Allow sending log messages to Rollbar)
+monolog/monolog suggests installing php-console/php-console (Allow sending log messages to Google Chrome)
+league/flysystem suggests installing league/flysystem-eventable-filesystem (Allows you to use EventableFilesystem)
+league/flysystem suggests installing league/flysystem-rackspace (Allows you to use Rackspace Cloud Files)
+league/flysystem suggests installing league/flysystem-azure (Allows you to use Windows Azure Blob storage)
+league/flysystem suggests installing league/flysystem-webdav (Allows you to use WebDAV storage)
+league/flysystem suggests installing league/flysystem-aws-s3-v2 (Allows you to use S3 storage with AWS SDK v2)
+league/flysystem suggests installing league/flysystem-aws-s3-v3 (Allows you to use S3 storage with AWS SDK v3)
+league/flysystem suggests installing spatie/flysystem-dropbox (Allows you to use Dropbox storage)
+league/flysystem suggests installing srmklive/flysystem-dropbox-v2 (Allows you to use Dropbox storage for PHP 5 applications)
+league/flysystem suggests installing league/flysystem-cached-adapter (Flysystem adapter decorator for metadata caching)
+league/flysystem suggests installing league/flysystem-sftp (Allows you to use SFTP server storage via phpseclib)
+league/flysystem suggests installing league/flysystem-ziparchive (Allows you to use ZipArchive adapter)
+laravel/framework suggests installing ext-pcntl (Required to use all features of the queue worker.)
+laravel/framework suggests installing aws/aws-sdk-php (Required to use the SQS queue driver and SES mail driver (~3.0).)
+laravel/framework suggests installing doctrine/dbal (Required to rename columns and drop SQLite columns (~2.5).)
+laravel/framework suggests installing guzzlehttp/guzzle (Required to use the Mailgun and Mandrill mail drivers and the ping methods on schedules (~6.0).)
+laravel/framework suggests installing league/flysystem-aws-s3-v3 (Required to use the Flysystem S3 driver (~1.0).)
+laravel/framework suggests installing league/flysystem-rackspace (Required to use the Flysystem Rackspace driver (~1.0).)
+laravel/framework suggests installing league/flysystem-cached-adapter (Required to use Flysystem caching (~1.0).)
+laravel/framework suggests installing nexmo/client (Required to use the Nexmo transport (~1.0).)
+laravel/framework suggests installing pda/pheanstalk (Required to use the beanstalk queue driver (~3.0).)
+laravel/framework suggests installing predis/predis (Required to use the redis cache and queue drivers (~1.0).)
+laravel/framework suggests installing pusher/pusher-php-server (Required to use the Pusher broadcast driver (~3.0).)
+laravel/framework suggests installing symfony/dom-crawler (Required to use most of the crawler integration testing tools (~3.3).)
+laravel/framework suggests installing symfony/psr-http-message-bridge (Required to psr7 bridging features (~1.0).)
+psy/psysh suggests installing ext-pcntl (Enabling the PCNTL extension makes PsySH a lot happier :))
+psy/psysh suggests installing ext-pdo-sqlite (The doc command requires SQLite to work.)
+psy/psysh suggests installing hoa/console (A pure PHP readline implementation. You'll want this if your PHP install doesn't already support readline or libedit.)
+filp/whoops suggests installing whoops/soap (Formats errors as SOAP responses)
+sebastian/global-state suggests installing ext-uopz (*)
+phpunit/phpunit-mock-objects suggests installing ext-soap (*)
+phpunit/phpunit suggests installing phpunit/php-invoker (^1.1)
+Package phpunit/phpunit-mock-objects is abandoned, you should avoid using it. No replacement was suggested.
+Writing lock file
+Generating optimized autoload files
+> Illuminate\Foundation\ComposerScripts::postAutoloadDump
+Carbon 1 is deprecated, see how to migrate to Carbon 2.
+https://carbon.nesbot.com/docs/#api-carbon-2
+    You can run './vendor/bin/upgrade-carbon' to get help in updating carbon and other frameworks and libraries that depend on it.
+> @php artisan package:discover
+Discovered Package: fideloper/proxy
+Discovered Package: laravel/tinker
+Discovered Package: nesbot/carbon
+Package manifest generated successfully.
+> @php artisan key:generate
+Application key [base64:hMVsY8Xzy7u8FH+uZjMEKo9/eQCwVLh6WfWdUg/SR0A=] set successfully.
